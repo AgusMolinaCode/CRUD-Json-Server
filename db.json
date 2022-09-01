@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "macarena",
+      "email": "am.motos@hotmail.com",
+      "telefono": "3053063125",
+      "empresa": "AGUSTIN MOLINA",
+      "id": 28
+    },
+    {
+      "nombre": "sara",
+      "email": "am.motos@hotmail.com",
+      "telefono": "01138911856",
+      "empresa": "AM MOTOS",
+      "id": 29
+    }
+  ]
+}
